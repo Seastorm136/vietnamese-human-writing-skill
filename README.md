@@ -1,6 +1,6 @@
 # Vietnamese Human Writing
 
-A skill for writing and editing Vietnamese using **Bộ quy tắc C**: 53 rules, seven revision passes, and 12 final acceptance checks. The instructions are bilingual; the complete Vietnamese rules remain unchanged.
+A skill for writing and editing Vietnamese using 53 rules, seven revision passes, and 12 final acceptance checks. The instructions are bilingual; the complete Vietnamese rules remain unchanged.
 
 "Human writing" describes natural, purposeful prose. This project does not classify authorship or promise to bypass AI detectors.
 
@@ -82,7 +82,7 @@ The Vietnamese reference is the authoritative source. Propose changes explicitly
 
 ## Tiếng Việt
 
-Skill này dùng Bộ quy tắc C để viết mới, viết lại và biên tập tiếng Việt. Bản gốc giữ nguyên đủ 53 quy tắc, 7 vòng kiểm tra và 12 điều kiện chấp nhận. Hướng dẫn sử dụng có cả tiếng Anh và tiếng Việt.
+Skill này dùng để viết mới, viết lại và biên tập tiếng Việt. Bản gốc giữ nguyên đủ 53 quy tắc, 7 vòng kiểm tra và 12 điều kiện chấp nhận. Hướng dẫn sử dụng có cả tiếng Anh và tiếng Việt.
 
 Tên "Human Writing" chỉ mục tiêu viết tự nhiên, rõ nghĩa và có giọng riêng. Bộ quy tắc không xác định chắc chắn tác giả là người hay AI, cũng không bảo đảm vượt qua công cụ phát hiện AI.
 

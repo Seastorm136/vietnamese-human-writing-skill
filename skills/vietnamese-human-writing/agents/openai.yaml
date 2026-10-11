@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vietnamese Human Writing"
+  short_description: "Viết và biên tập tiếng Việt theo Bộ quy tắc C"
+  default_prompt: "Dùng $vietnamese-human-writing để viết lại đoạn văn này theo Bộ quy tắc C, giữ nguyên dữ kiện và giọng người viết."
